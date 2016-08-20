@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "appName": "reduxReactMaterialWeather",
+    "style": "scss",
+    "postcss": true,
+    "generatedWithVersion": 3
+  }
+}
